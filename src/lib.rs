@@ -1,4 +1,6 @@
-pub mod models;
+// Lib target intended for integration tests.
+// TODO: Move tests to the main crate
+
 pub mod app;
 pub mod archival;
 pub mod configuration;
